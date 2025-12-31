@@ -1,6 +1,6 @@
 # Bright DataのPrivate Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/private-proxies) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/private-proxies) 
 
 ## 概要
 正確なターゲティング、比類のない安定性、そして高速なレスポンスタイムを提供するよう設計されたBright Dataの[Private proxies](https://brightdata.jp/solutions/private-proxies)で、シームレスなスクレイピングをご体験ください。
@@ -25,7 +25,7 @@
 - **倫理的に提供**: すべてのプロキシは、ユーザーの明確な同意のもとで提供されています。
 - **無制限の同時接続セッション**: 制限なく運用をスケールできます。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/private-proxies) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/private-proxies) 
 
 ## Private Proxiesの利用開始
 1. **無料トライアルを開始**: クレジットカードは不要です。
