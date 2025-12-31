@@ -1,69 +1,69 @@
-# Bright Data's Private Proxies
+# Bright DataのPrivate Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/solutions/private-proxies) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/private-proxies) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Private proxies](https://brightdata.com/solutions/private-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
+## 概要
+正確なターゲティング、比類のない安定性、そして高速なレスポンスタイムを提供するよう設計されたBright Dataの[Private proxies](https://brightdata.jp/solutions/private-proxies)で、シームレスなスクレイピングをご体験ください。
 
-- **100M+ Private IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-location targeting (Free)**
+- **1億以上のPrivate IP**
+- **スティッキーおよびローテーティングセッション**
+- **99.95%の成功率**
+- **HTTP(S) & SOCKS5対応**
+- **ジオロケーションターゲティング（無料）**
 
-## Key Features
-- **Global Coverage**: Private proxies available in [195 countries](https://brightdata.com/locations).
-- **Poular proxy IP locations**
-   - [**United States proxy**](https://brightdata.com/locations/united-states)
-   - [**China proxy**](https://brightdata.com/locations/cn)
-   - [**UK proxy**](https://brightdata.com/locations/gb)
-   - [**Germany proxy**](https://brightdata.com/locations/de)
-   - [**Canada proxy**](https://brightdata.com/locations/ca)
-   - [**India proxy**](https://brightdata.com/locations/in)
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な機能
+- **グローバルカバレッジ**: [195か国](https://brightdata.jp/locations)で利用可能なPrivate proxies。
+- **人気のプロキシIPロケーション**
+   - [**United States proxy**](https://brightdata.jp/locations/united-states)
+   - [**China proxy**](https://brightdata.jp/locations/cn)
+   - [**UK proxy**](https://brightdata.jp/locations/gb)
+   - [**Germany proxy**](https://brightdata.jp/locations/de)
+   - [**Canada proxy**](https://brightdata.jp/locations/ca)
+   - [**India proxy**](https://brightdata.jp/locations/in)
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現します。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的に提供**: すべてのプロキシは、ユーザーの明確な同意のもとで提供されています。
+- **無制限の同時接続セッション**: 制限なく運用をスケールできます。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/private-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/solutions/private-proxies) 
 
-## Getting Started with Private Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Private Proxiesの利用開始
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPおよび設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例が用意されています。
 
-## Integrations
-Our Private proxies integrate with popular tools and frameworks, including:
+## 統合
+Private proxiesは、以下を含む一般的なツールやフレームワークと統合できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ統合**](https://brightdata.jp/integration)
 
-## Use Cases
-Explore how businesses leverage Private proxies:
+## ユースケース
+企業がPrivate proxiesをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
 
 ## FAQ
 
-### What are the benefits of Private Proxies?
-The benefits of using Private proxies include a high level of privacy and security, faster speeds due to no sharing of bandwidth, and a lower risk of being blocked or blacklisted as the IP is not associated with any other user’s activities.
+### Private Proxiesを利用するメリットは何ですか？
+Private proxiesを利用するメリットには、高いプライバシーとセキュリティ、帯域幅を共有しないことによる高速性、そしてIPアドレスが他ユーザーの活動と紐づかないためブロックやブラックリスト登録のリスクが低いことが含まれます。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランがありますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **従量課金（Pay-As-You-Go）**: GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月額、年額、およびカスタムオプションがあります。
 
-### Are Bright Data's Private Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright DataのPrivate Proxiesはコンプライアンスに準拠しており、安全に利用できますか？
+Bright Dataのプロキシは倫理的に提供されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法に準拠しています。
 
-### Is there dedicated support available?
-Our Private support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Private proxy network.
+### 専用サポートは利用できますか？
+Privateサポートチームが24時間365日対応し、支援いたします。ニーズについてご相談いただき、Privateプロキシネットワークのメリットを最大化するためにお問い合わせください。
